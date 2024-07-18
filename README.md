@@ -1,4 +1,4 @@
-# Make-Windows-Look-like-Macos
+# Make-Windows11-Look-like-Macos
 Full Pack of Making windows look like Macos, Including tutorial from TechRifle (I never asked techrifle for permission, So pls don't Sue me. I just want to make easier for people to make their desktops look like mac easier.)
 
 Pack includes:
